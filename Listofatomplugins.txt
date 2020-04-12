@@ -1,0 +1,7 @@
+atom-beautify
+atom-ternjs
+autoclose-html
+emmet
+csslint
+pigments
+language-ejs
