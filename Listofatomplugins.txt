@@ -5,3 +5,4 @@ emmet
 csslint
 pigments
 language-ejs
+linter for debugging
