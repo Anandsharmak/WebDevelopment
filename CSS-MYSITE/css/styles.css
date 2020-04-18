@@ -26,7 +26,11 @@ h3 {
 .color-blue {
   background-color: blue
 }
-
+.myimg{
+  height:200px;
+  width: 200px;
+  border-radius: 50%;
+}
 .top-cloud {
   position: absolute;
   right: 350px;
