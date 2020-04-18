@@ -12,17 +12,36 @@ div {
 }
 
 h1 {
-  font-family: 'Sacramento'
+  color: #66BFBF;
+  font-family: 'Sacramento';
+  font-size: 5.5rem;
+  margin: 40 auto 0 auto;
+  padding-bottom: 0;
+  /* Rem= % irrespective to parent  */
+  /* em= % respective to parent  */
+/* 1em=100=16px */
 }
 
 h2 {
-  font-family: 'Montserrat'
+  color: #66BFBF;
+  font-size: 30px;
+  margin: 0 auto 0 auto;
+  font-family: 'Montserrat';
+  font-weight: normal;
+  line-height: 2;
+}
+
+br{
+  size:2;
 }
 
 h3 {
+  color:  #11999E;
   font-family: 'Montserrat'
 }
-
+a {
+  color:  #11999E;
+}
 .color-blue {
   background-color: blue
 }
