@@ -69,7 +69,7 @@ a {
 
 .skill-row{
   text-align: left;
-  width:70%;
+  width:40%;
   margin: 50px auto 10px auto;
   overflow: hidden;
 }
@@ -83,12 +83,4 @@ a {
   position: absolute;
   left: 350px;
   bottom: 300px;
-}
-
-.p1{
-  clear:left;
-}
-
-.p2{
-  clear:right;
 }
