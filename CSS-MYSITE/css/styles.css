@@ -6,7 +6,7 @@ body {
 
 div {
   background-color: #f7f7f7;
-  padding-top: 100px;
+  padding-top: 30px;
   /* if you set child as absolute parent must be relative */
   position: relative;
 }
@@ -45,10 +45,33 @@ a {
 .color-blue {
   background-color: blue
 }
-.myimg{
+
+.myimg1{
   height:200px;
   width: 200px;
   border-radius: 50%;
+}
+.myimg2{
+  height:200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.myimg3{
+  height:200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.skill-row{
+  text-align: left;
+  width:70%;
+  margin: 50px auto 10px auto;
+  overflow: hidden;
 }
 .top-cloud {
   position: absolute;
@@ -60,4 +83,12 @@ a {
   position: absolute;
   left: 350px;
   bottom: 300px;
+}
+
+.p1{
+  clear:left;
+}
+
+.p2{
+  clear:right;
 }
