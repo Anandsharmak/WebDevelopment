@@ -92,7 +92,7 @@ a:hover{
 
 .skill-row {
   text-align: left;
-  width: 40%;
+  width: 70%;
   margin: 50px auto 10px auto;
   overflow: hidden;
 }
@@ -104,8 +104,8 @@ a:hover{
 }
 
 p {
-  line-height: 2;
-
+  line-height: 1.5;
+  font-size: 20px;
 }
 
 .bottom-cloud {
