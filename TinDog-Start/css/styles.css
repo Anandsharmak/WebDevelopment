@@ -3,7 +3,7 @@
 }
 
 #title{
-  background-color: #ff4c68;
+  background-color:#ff4c68;
 }
 
 h1{
@@ -47,5 +47,14 @@ margin:5% 3% 10% 2%;
 /* Image */
 .image{
 width:60%;
-transform: rotate(25deg); 
+transform: rotate(25deg);
+}
+
+/* Icons */
+.fas{
+  color :#ef8172;;
+}
+.h2:hover{
+  /* color : #ff4c68 */
+  color:#fff;
 }
