@@ -51,10 +51,13 @@ transform: rotate(25deg);
 }
 
 /* Icons */
-.fas{
-  color :#ef8172;;
+.icon{
+  color :#ef8172;
 }
-.h2:hover{
-  /* color : #ff4c68 */
-  color:#fff;
+.icon:hover{
+  color :#ff4c68;
+}
+.h3
+{
+  font-family: "Montserrat-bold";
 }
