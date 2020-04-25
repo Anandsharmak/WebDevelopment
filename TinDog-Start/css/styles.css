@@ -102,3 +102,14 @@ font-size: 3rem;
   width: 15%;
   padding: 10px;
 }
+
+/* Pricing */
+
+#pricing{
+  padding: 5%;
+  text-align: center;
+}
+
+.column-pricing{
+  padding:5% 3%;
+}

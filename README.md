@@ -23,3 +23,5 @@ belsamic box drawing
 10. use https://fontawesome.com/account for using button icons in button
 
 11. tindog wbsite :https://anandsharmak.github.io/WebDevelopment/TinDog-Start/index.html
+
+12. Bootsnip contains example of bootstrap. It includes login screen, pricing etc example. Use for copy paste.
