@@ -17,10 +17,6 @@ h1{
   padding: 3% 15%;
 }
 
-.img{
-  transform: rotate(90deg);
-  margin: 10px 0;
-}
 /* navigation Bar */
 .navbar{
   padding: 0 0 2.5rem 0;
@@ -49,11 +45,25 @@ margin:5% 3% 10% 2%;
 .image{
 width:60%;
 transform: rotate(25deg);
+/* posiiton shouldn't be static for z-index */
+position: absolute;
+z-index: 0;
 }
 
 /* Feature section */
 #features{
-  padding: 7% 15%;
+  padding: 7% 15% 9%;
+  position: relative;
+  background-color:#fff;
+}
+
+.mid-sec{
+  /* position must not be static(default) before applying zindex */
+  position: relative;
+   z-index:1;
+  /* We didn't even had to make z-index:1 as mid-sec is below image hence
+  above the image in z positioning */
+
 }
 
 .icon{
