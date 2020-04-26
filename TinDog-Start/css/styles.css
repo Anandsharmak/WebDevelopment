@@ -86,6 +86,7 @@ z-index: 0;
 .h3
 {
   font-family: "Montserrat-bold";
+  color
 }
 
 /* Testimonial section */
@@ -132,4 +133,29 @@ font-size: 3rem;
 
 .column-pricing{
   padding:5% 3%;
+}
+
+/* Cta section */
+
+#cta{
+  background-color:#ff4c68;
+  text-align: center;
+  padding :7% 15%;
+}
+
+.bottom-header{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding :4% 15%;
+}
+
+.social-btn{
+  margin:25px 16px;
 }
