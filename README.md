@@ -25,3 +25,5 @@ belsamic box drawing
 11. tindog wbsite :https://anandsharmak.github.io/WebDevelopment/TinDog-Start/index.html
 
 12. Bootsnip contains example of bootstrap. It includes login screen, pricing etc example. Use for copy paste.
+
+13. To check whether your website is mobile friendly use https://search.google.com/test/mobile-friendly?id=vuhSckKtyudFqdHHBpzAsA

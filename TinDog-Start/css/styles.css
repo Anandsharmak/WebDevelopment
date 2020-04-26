@@ -42,12 +42,22 @@ margin:5% 3% 10% 2%;
 
 /* Image */
 
-.image{
+.image-phone{
 width:60%;
 transform: rotate(25deg);
 /* posiiton shouldn't be static for z-index */
 position: absolute;
 z-index: 0;
+}
+
+@media (max-width: 1000px) {
+  .image-phone{
+  position: static;
+  transform: rotate(0);
+  }
+  .title-row{
+    text-align: center;
+  }
 }
 
 /* Feature section */
