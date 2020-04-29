@@ -27,3 +27,6 @@ belsamic box drawing
 12. Bootsnip contains example of bootstrap. It includes login screen, pricing etc example. Use for copy paste.
 
 13. To check whether your website is mobile friendly use https://search.google.com/test/mobile-friendly?id=vuhSckKtyudFqdHHBpzAsA
+
+TODO: Give contact button href of bottom section
+refactor code

@@ -86,7 +86,6 @@ z-index: 0;
 .h3
 {
   font-family: "Montserrat-bold";
-  color
 }
 
 /* Testimonial section */
@@ -159,3 +158,22 @@ font-size: 3rem;
 .social-btn{
   margin:25px 16px;
 }
+
+
+
+/* Heighrarchial combinations */
+/*Hierarchial type classorid2 inside classorid1 must have these cahracteristics
+classorid1 classorid1{
+}
+example
+#footer .p{
+  text color:red;
+}
+Combination type an element with both classorid2 classorid1 must have these cahracteristics
+classorid1classorid1{
+}
+example
+#footer.p{
+  text color:red;
+}
+*/
