@@ -30,3 +30,6 @@ belsamic box drawing
 
 TODO: Give contact button href of bottom section
 refactor code
+
+14. To run JS scripts either go to chrome inspect console for lineby lineby
+or go to sources >> and .js file
