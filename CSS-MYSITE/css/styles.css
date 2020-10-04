@@ -1,7 +1,7 @@
 body {
   text-align: center;
   margin: 0;
-  font-family: 'Merriweather'
+  font-family: 'Merriweather';
     color: #40514E;
 }
 
@@ -163,4 +163,11 @@ p {
   -moz-border-radius: 20px;
   border-radius: 8px;
   text-decoration: none;
+}
+
+.footer-link{
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather';
+  color: white;
 }
